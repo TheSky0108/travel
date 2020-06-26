@@ -1,4 +1,5 @@
-*.html linguist-language=Java 
-*.js linguist-language=Java 
-*.css linguist-language=Java 
+*.java linguist-language=Java 
+*.html linguist-language=html
+*.js linguist-language=javascript
+*.css linguist-language=css
 *.sql linguist-language=Java
