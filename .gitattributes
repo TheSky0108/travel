@@ -1,3 +1,4 @@
 *.html linguist-language=Java 
 *.js linguist-language=Java 
 *.css linguist-language=Java 
+*.TSQL linguist-language=Java 
